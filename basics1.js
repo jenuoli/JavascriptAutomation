@@ -7,5 +7,5 @@ let b=234.6
 console.log(typeof(b))
 
 let c=a+b
-
+console.log(c)
 
