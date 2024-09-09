@@ -4,5 +4,5 @@ if(!flag){
 }
 else{
     console.log(flag)
-    console.log("condition not satisfied")
+    console.log("condition not satisfied here")
 }
