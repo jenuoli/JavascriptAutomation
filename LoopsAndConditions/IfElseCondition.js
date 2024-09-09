@@ -1,5 +1,5 @@
 const flag=true
-if(flag){
+if(!flag){
     console.log("condition satisfied")
 }
 else{
